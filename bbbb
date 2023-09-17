@@ -1,1 +1,23 @@
-test
+[
+  {
+    "id": 1,
+    "title": "Track 1",
+    "artist": "Artist A",
+    "url": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+    "durationInSeconds": 180
+  },
+  {
+    "id": 2,
+    "title": "Track 2",
+    "artist": "Artist B",
+    "url": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+    "durationInSeconds": 240
+  },
+  {
+    "id": 3,
+    "title": "Track 3",
+    "artist": "Artist A",
+    "url": "https://samplelib.com/lib/preview/mp3/sample-3s.mp3",
+    "durationInSeconds": 200
+  }
+]
